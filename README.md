@@ -9,6 +9,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/yurifarion/Multiplayer-Checkers-Unity3D-Photon?style=for-the-badge)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/yurifarion/Multiplayer-Checkers-Unity3D-Photon?style=for-the-badge)
 
+
+Play it here: (https://yurifarion.000webhostapp.com/Checker/index.html)
 <img src="sc_1_menuCheckers.png" alt="Menu">
 <img src="sc_2_menuCheckers.png" alt="Game">
 
@@ -21,8 +23,8 @@ I am still developing this game, i can only work on it in my free time, so it's 
 - [x] Connect two players online with Photon.
 - [x] Make Create room and Quick join.
 - [x] Select the winner based on piece count.
-- [ ] Register player with SQL and PHP.
-- [ ] Score all the matches with Data base.
+- [x] Register player with SQL and PHP.
+- [x] Score all the matches with Data base.
 
 ## 💻 Requirements
 
